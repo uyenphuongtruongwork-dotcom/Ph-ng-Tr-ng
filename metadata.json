@@ -1,0 +1,6 @@
+{
+  "name": "Dệt Sắc Việt - Vietnamese Brocade & Silk Craft",
+  "description": "Thương hiệu sáng tạo ứng dụng thổ cẩm dệt tay và lụa tơ tằm truyền thống Việt Nam vào sản phẩm phong cách sống đương đại với tùy biến thiết kế trực quan và câu chuyện văn hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
